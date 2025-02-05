@@ -45,4 +45,4 @@ function addlist() {
 }
 agregar.addEventListener("click", addlist);
 
-// lo modifico para git
+// lo modifico para gitclear
