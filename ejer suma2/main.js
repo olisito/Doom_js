@@ -10,6 +10,7 @@ function agregar() {
     elementoLista.innerText = "El numero es: " + inputValue;
     listaUl.appendChild(elementoLista);
     suma += Number(inputValue);
+    inputNumero.value = "";
 }
 
 function sumatoria() {
