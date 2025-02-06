@@ -21,3 +21,4 @@ function sumatoria() {
 btnAgregar.addEventListener("click", agregar);
 btnSumatoria.addEventListener("click", sumatoria);
 /* fixeamos errores */
+/* fixeamos  errores por segunda vez */
